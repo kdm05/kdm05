@@ -9,7 +9,7 @@ and learning programming through small scripts projects.
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Discord-d1a01f?style=for-the-badge&logo=discord&logoColor=d1a01f&labelColor=282828](https://img.shields.io/badge/-Discord-424549?style=for-the-badge&logo=discord&logoColor=7289daf&labelColor=303336">
+  <img src="https://img.shields.io/badge/-Discord-424549?style=for-the-badge&logo=discord&logoColor=7289daf&labelColor=303336">
 </div>
 </p>
 
