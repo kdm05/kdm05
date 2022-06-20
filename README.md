@@ -27,21 +27,28 @@ and learning programming through small scripts projects.
 
 
 ```lua
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
+--[[
+My current projects:
+- New fe script,
+- Maybe a reborn? ,
+- My discord server <3,
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
+My released scripts below;
+--]]
+
+--Devils Tango Remake
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/DevilsTango.lua'))()
+
+--Moai
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/Moai.lua'))()
+
+--Football Remake
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/FootballRemake.lua'))()
+
+--Internal War
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/InternalWar.lua'))()
 ```
+
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=p0zq84gcbk2y2ur28gw4kyf25&redirect=true">
