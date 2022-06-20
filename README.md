@@ -1,18 +1,15 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>kdm05</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Hello! Im just a guy that makes FE scripts for roblox.
+and learning programming through small scripts projects.
 
 <br>
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Discord-d1a01f?style=for-the-badge&logo=discord&logoColor=d1a01f&labelColor=282828](https://img.shields.io/badge/-Discord-424549?style=for-the-badge&logo=discord&logoColor=7289daf&labelColor=303336">
 </div>
 </p>
 
