@@ -49,7 +49,7 @@ loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/m
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/InternalWar.lua'))()
 
 --Void Boss
-loadstring(game:HttpGetAsync('https://github.com/kdm05/releases/blob/main/VoidBoss.lua'))()
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/VoidBoss.lua'))()
 ```
 
 
