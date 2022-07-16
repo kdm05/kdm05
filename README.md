@@ -45,8 +45,11 @@ loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/m
 --Football Remake
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/FootballRemake.lua'))()
 
---Internal War
-loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/InternalWar.lua'))()
+--Internal War (Big Ver.)
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/InternalBig.lua'))()
+
+--Internal War (Small Ver.)
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/InternalSmall.lua'))()
 
 --Void Boss
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/VoidBoss.lua'))()
